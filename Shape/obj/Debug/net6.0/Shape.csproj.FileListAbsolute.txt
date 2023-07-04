@@ -1,0 +1,12 @@
+E:\Training\Shape\bin\Debug\net6.0\Shape.deps.json
+E:\Training\Shape\bin\Debug\net6.0\Shape.dll
+E:\Training\Shape\bin\Debug\net6.0\Shape.pdb
+E:\Training\Shape\obj\Debug\net6.0\Shape.csproj.AssemblyReference.cache
+E:\Training\Shape\obj\Debug\net6.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\Shape\obj\Debug\net6.0\Shape.AssemblyInfoInputs.cache
+E:\Training\Shape\obj\Debug\net6.0\Shape.AssemblyInfo.cs
+E:\Training\Shape\obj\Debug\net6.0\Shape.csproj.CoreCompileInputs.cache
+E:\Training\Shape\obj\Debug\net6.0\Shape.dll
+E:\Training\Shape\obj\Debug\net6.0\refint\Shape.dll
+E:\Training\Shape\obj\Debug\net6.0\Shape.pdb
+E:\Training\Shape\obj\Debug\net6.0\ref\Shape.dll
